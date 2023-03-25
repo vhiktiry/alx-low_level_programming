@@ -1,4 +1,4 @@
-#include <stdoi.h>
+#include <stdio.h>
 /**
  * main -  A program that prints alpahbets in lowercse
  * Return: always 0
